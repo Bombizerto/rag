@@ -1,0 +1,19 @@
+P1: ¿Qué productos ofrece Aquarelle?
+R1: Aquarelle ofrece una variedad de ramos de flores, plantas de interior y accesorios como chocolates y jarrones. Además, tienen opciones específicas para ocasiones como cumpleaños, bodas y funerales.
+
+P2: ¿Cómo garantiza Aquarelle la satisfacción del cliente al entregar flores?
+R2: Cada ramo de flores es creado artesanalmente para ser fiel al diseño elegido por el cliente. Aquarelle envía una foto del ramo terminado al cliente antes del envío para asegurar que cumple con las expectativas.
+
+P3: ¿Aquarelle realiza entregas internacionales?
+R3: Sí, Aquarelle realiza envíos de flores a varios países, incluidos Francia, Alemania, Bélgica, Luxemburgo, Estados Unidos, los Países Bajos y el Reino Unido.
+
+P4: ¿Qué opciones de entrega ofrece Aquarelle en España?
+R4: En Madrid, Aquarelle ofrece entrega en 4 horas. Para el resto de España, tienen un servicio de entrega de flores de lunes a sábado en un plazo de 24 horas.
+P5: ¿Qué métodos de pago acepta Aquarelle?
+R5: Aquarelle acepta varios métodos de pago, incluidos tarjetas de crédito y débito, y posiblemente opciones de pago online como PayPal, aunque se recomienda revisar en el sitio para opciones específicas.
+
+P6: ¿Cómo puede un cliente realizar un seguimiento de su pedido en Aquarelle?
+R6: Los clientes pueden realizar el seguimiento de su pedido a través de un enlace de seguimiento que se proporciona una vez que el pedido ha sido despachado.
+
+P7: ¿Aquarelle ofrece servicios de suscripción para entregas regulares de flores?
+R7: Aquarelle puede ofrecer servicios de suscripción donde los clientes reciben flores de forma periódica, aunque esto debería verificarse directamente en su sitio para confirmar la disponibilidad y los detalles del servicio.
